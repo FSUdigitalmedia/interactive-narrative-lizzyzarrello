@@ -1,0 +1,14 @@
+:: boxoffice
+
+You continue to wait in line at the box office, until the attendant speaks, “What’s your name sweety?” 
+
+You respond 
+
+<<textbox "$name" "" "insidemuseum" autofocus>>
+
+:: insidemuseum
+
+
+
+(click on ticket JPG)  (brings you to Image of inside the museum)
+(audio of echoed voices in museum)
