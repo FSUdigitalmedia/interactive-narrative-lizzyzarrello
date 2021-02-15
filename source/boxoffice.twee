@@ -8,7 +8,9 @@ You respond
 
 :: insidemuseum
 
+<<print $name>> , heres your ticket. The tour is inside to the right...
 
+[[Joint the tour|tour]]
 
 (click on ticket JPG)  (brings you to Image of inside the museum)
 (audio of echoed voices in museum)
