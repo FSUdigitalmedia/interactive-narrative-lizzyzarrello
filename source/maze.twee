@@ -1,0 +1,139 @@
+:: maze
+
+<<actions [[Go Left|tryagain1 ]]>>
+<<actions [[Go Straight|Q1]]>>
+<<actions [[Go Right|tryagain1 ]]>>
+
+:: tryagain1
+
+You reach a dead end the voices are getting closer... 
+[[Try Again|maze]]
+
+:: Q1
+
+Majority of Ai Weiwei's pieces focus on the harsh conditions and of what communist government?
+
+<<actions [[North Korea|tryagain2]]>>
+<<actions [[Vietnam|tryagain2]]>>
+<<actions [[China|maze2 ]]>>
+
+:: tryagain2
+
+Wrong answer...
+[[Try Again|Q1]]
+
+:: maze2
+Correct! The screams fall behind, keep going!
+
+<<actions [[Go Left|tryagain3 ]]>>
+<<actions [[Go Straight|tryagain3 ]]>>
+<<actions [[Go Right|Q2]]>>
+
+:: tryagain3
+You reach a dead end the voices are getting closer... 
+[[Try Again|second]]
+
+:: Q2
+
+Hanna Wilke was the first artist to make?
+
+<<actions [[Stone Penises|tryagain4 ]]>>
+<<actions [[Vagina Ceramics|maze3]]>>
+<<actions [[Silicon Socks|tryagain4 ]]>>
+
+:: tryagain4
+Wrong answer...
+[[Try Again|Q2]]
+
+
+:: maze3
+Correct! Almost safe, just a few more turns!
+
+<<actions [[Go Left|Q3 ]]>>
+<<actions [[Go Straight|tryagain5 ]]>>
+<<actions [[Go Right|tryagain5 ]]>>
+
+:: tryagain5
+Wrong answer...
+[[Try Again|maze3]]
+
+:: Q3
+
+Yayoi Kusama suffered from?
+
+<<actions [[Flat Feet|tryagain6 ]]>>
+<<actions [[Bad Spelling|tryagain6]]>>
+<<actions [[Hallucinations|maze4]]>>
+
+:: tryagain6
+Wrong answer...
+[[Try Again|Q3]]
+
+
+:: maze4
+Correct! Your gaining more speed!
+
+<<actions [[Go Left|tryagain7 ]]>>
+<<actions [[Go Straight|Q4 ]]>>
+<<actions [[Go Right|tryagain7 ]]>>
+
+:: tryagain7
+Wrong answer...
+[[Try Again|maze4]]
+
+:: Q4
+
+Wayne Thiebaud was known for painting?
+
+<<actions [[Broad Scenes|tryagain7 ]]>>
+<<actions [[Portraits|tryagain7]]>>
+<<actions [[Everyday Objects|maze5]]>>
+
+:: tryagain7
+Wrong answer...
+[[Try Again|Q4]]
+
+:: maze5
+
+Correct! One more turn!
+
+<<actions [[Go Left|tryagain8 ]]>>
+<<actions [[Go Straight|tryagain8 ]]>>
+<<actions [[Go Right|Q5 ]]>>
+
+:: tryagain8
+Wrong answer...
+[[Try Again|maze5]]
+
+:: Q5
+
+How many Scream paintings are there? 
+
+<<actions [[1|tryagain9 ]]>>
+<<actions [[4|safety]]>>
+<<actions [[15|tryagain9]]>>
+
+:: tryagain9
+Wrong answer...
+[[Try Again|Q5]]
+
+:: safety
+
+Correct! You spring through the maze and reach the light. Its a large beme coming from a rectangular frame. 
+When you manouver through the frame, you are suddenly back in the museum. Safe and [[sound.]]
+
+:: sound. 
+
+Overwhelmed and out of breath you sit for a moment to regain your composure. 
+
+Once you start to take steady breaths you stand up, collect your belongings, and once again walk through the once again filled museum towards the exit. 
+Dumbfounded by what just happened. You hear a voice scream "<<print $name>>",
+
+You stand still for a moment, unsure if you ever escaped. 
+
+You look towards the voice and see your teacher, "<<print $name>>, where have you been!? Don't make me give you a detention for sneaking off!"
+
+You apologize to the teacher and follow her towards the bus, but not without looking back towards the museum, listening to the screams growing quieter with each foot of ditance[[...]]
+
+:: ...
+Perhaps you were still only an earshot away from the painting, or maybe you too were moved to insanity. 

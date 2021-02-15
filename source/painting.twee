@@ -2,7 +2,10 @@
 
 All you see is darkness, until you hear a faint sound...
 
-"<<print $name>>", and it grows louder
+"<<print $name>>", [[Continue]] 
+:: Continue 
+and it grows louder...
+
 "<<print $name>>",
 "<<print $name>>",
 "<<print $name>>",
@@ -10,4 +13,20 @@ All you see is darkness, until you hear a faint sound...
 
 with each time your name begins to turn into screams. 
 
-Screams in endless, overwhelming numbers. 
+Screams in endless, overwhelming [[numbers.]]
+
+:: numbers.
+
+The screams arent just getting louder...
+
+but closer. 
+
+You start to run and when you do, you see a faint light and begin to sprint towards [[it.]]
+
+:: it. 
+
+As your running towards the light you reach a maze. 
+
+You must turn before the screams reach [[you.|maze]]
+
+
