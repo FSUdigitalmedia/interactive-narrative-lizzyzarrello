@@ -10,7 +10,14 @@ You respond
 
 <<print $name>> , heres your ticket. The tour is inside to the right...
 
-[[Joint the tour|tour]]
+[[Take the ticket|taketicket]]
+
+:: taketicket
+
+
+You now have 1 ticket and can now access the tour. 
+
+[[Join the tour|tour]]
 
 (click on ticket JPG)  (brings you to Image of inside the museum)
 (audio of echoed voices in museum)

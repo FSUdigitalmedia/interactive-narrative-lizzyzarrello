@@ -3,10 +3,10 @@
 All you see is darkness, until you hear a faint sound...
 
 "<<print $name>>", and it grows louder
-<<print $name>> ,
-<<print $name>> ,
-<<print $name>> ,
-<<print $name>> ,
+"<<print $name>>",
+"<<print $name>>",
+"<<print $name>>",
+"<<print $name>>",
 with each time your name begins to turn into screams. 
 
 Screams in endless, overwhelming numbers. 
