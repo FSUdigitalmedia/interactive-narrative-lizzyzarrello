@@ -1,6 +1,6 @@
 :: painting
 
-All you see is darkness, until you hear a faint sound...
+Your transportred and all you see is darkness, until you hear a faint sound...
 
 "<<print $name>>", [[Continue]] 
 :: Continue 

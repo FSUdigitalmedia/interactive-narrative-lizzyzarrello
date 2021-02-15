@@ -119,7 +119,7 @@ Wrong answer...
 
 :: safety
 
-Correct! You spring through the maze and reach the light. Its a large beme coming from a rectangular frame. 
+Correct! You spring through the maze and reach the light. Its a large beam coming from a rectangular frame. 
 When you manouver through the frame, you are suddenly back in the museum. Safe and [[sound.]]
 
 :: sound. 
@@ -133,7 +133,10 @@ You stand still for a moment, unsure if you ever escaped.
 
 You look towards the voice and see your teacher, "<<print $name>>, where have you been!? Don't make me give you a detention for sneaking off!"
 
-You apologize to the teacher and follow her towards the bus, but not without looking back towards the museum, listening to the screams growing quieter with each foot of ditance[[...]]
+You apologize to the teacher and follow her towards the bus, but not without looking back towards the museum, listening to the screams growing quieter with each foot of distance[[...]]
 
 :: ...
 Perhaps you were still only an earshot away from the painting, or maybe you too were moved to insanity. 
+
+[[The End|Main]]
+
