@@ -6,8 +6,8 @@
 }
 
 :: StoryTitle
-Picture Perfect
+The Big Picture
 
 :: Start
 
-[[Enter Bus|bus]]
+[[Begin Game|bus]]
