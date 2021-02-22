@@ -1,2 +1,4 @@
 # interactive-narrative-lizzyzarrello
-interactive-narrative-lizzyzarrello created by GitHub Classroom
+link to game
+
+https://fsudigitalmedia.github.io/interactive-narrative-lizzyzarrello/
