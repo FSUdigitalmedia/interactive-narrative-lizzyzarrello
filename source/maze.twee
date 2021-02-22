@@ -1,16 +1,6 @@
 :: maze
 
-# # # # # # # # # # # 
-# O . . # . . . . . # 
-# # # . # # # # # . # 
-# . # . . . . . # . # 
-# . # # # # # . # . # 
-# . . . . . . . # . # 
-# # # # # # # . # . # 
-# . # . . . . . . . # 
-# . # . # # # . # # # 
-# . . . # . . . . X # 
-# # # # # # # # # # #
+<img src="https://i.ibb.co/PQ0Kr1y/Screen-Shot-2021-02-22-at-11-35-59-AM.png" alt="East" style="width:310px;height:390px;">
 
 <<actions [[Go East|Q1 ]]>>
 <<actions [[Go South|tryagain1]]>>
@@ -37,17 +27,7 @@ Wrong answer...
 :: maze2
 Correct! The screams fall behind, keep going!
 
-# # # # # # # # # # # 
-# . . O # . . . . . # 
-# # # . # # # # # . # 
-# . # . . . . . # . # 
-# . # # # # # . # . # 
-# . . . . . . . # . # 
-# # # # # # # . # . # 
-# . # . . . . . . . # 
-# . # . # # # . # # # 
-# . . . # . . . . X # 
-# # # # # # # # # # #
+<img src="https://i.ibb.co/5KpCTpX/Screen-Shot-2021-02-22-at-11-36-19-AM.png" alt="South" style="width:310px;height:390px;">
 
 <<actions [[Go West|tryagain3 ]]>>
 <<actions [[Go South|Q2]]>>
@@ -71,17 +51,7 @@ Wrong answer...
 :: maze3
 Correct! Almost safe, just a few more turns!
 
-# # # # # # # # # # # 
-# . . . # . . . . . # 
-# # # . # # # # # . # 
-# . # O . . . . # . # 
-# . # # # # # . # . # 
-# . . . . . . . # . # 
-# # # # # # # . # . # 
-# . # . . . . . . . # 
-# . # . # # # . # # # 
-# . . . # . . . . X # 
-# # # # # # # # # # #
+ <img src="https://i.ibb.co/z5dCDyV/Screen-Shot-2021-02-22-at-11-36-36-AM.png" alt="East" style="width:310px;height:390px;">
 
 <<actions [[Go East|Q3 ]]>>
 <<actions [[Go North|tryagain5 ]]>>
@@ -105,17 +75,7 @@ Wrong answer...
 :: maze4
 Correct! Your gaining more speed!
 
-# # # # # # # # # # # 
-# . . . # . . . . . # 
-# # # . # # # # # . # 
-# . # . . . . O # . # 
-# . # # # # # . # . # 
-# . . . . . . . # . # 
-# # # # # # # . # . # 
-# . # . . . . . . . # 
-# . # . # # # . # # # 
-# . . . # . . . . X # 
-# # # # # # # # # # #
+<img src="https://i.ibb.co/DkBFGvq/Screen-Shot-2021-02-22-at-11-36-50-AM.png" alt="South" style="width:310px;height:390px;">
 
 <<actions [[Go West|tryagain7 ]]>>
 <<actions [[Go South|Q4 ]]>>
@@ -137,19 +97,9 @@ Wrong answer...
 
 :: maze5
 
-Correct! One more turn!
+Correct! Keep going!
 
-# # # # # # # # # # # 
-# . . . # . . . . . # 
-# # # . # # # # # . # 
-# . # . . . . . # . # 
-# . # # # # # . # . # 
-# . . . . . . . # . # 
-# # # # # # # . # . # 
-# . # . . . . . . . # 
-# . # . # # # . # # # 
-# . . . # . . O . X # 
-# # # # # # # # # # #
+<img src="https://i.ibb.co/xXNCS6W/Screen-Shot-2021-02-22-at-11-37-00-AM.png" alt="East" style="width:310px;height:390px;">
 
 <<actions [[Go West|tryagain8 ]]>>
 <<actions [[Go East|Q5 ]]>>
