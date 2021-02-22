@@ -12,11 +12,5 @@ You respond
 
 <img src="https://i.pinimg.com/originals/63/e2/1b/63e21b61adc2cd398a1ed31ad5a73023.jpg" alt="W3Schools.com" style="width:300px;height:200px;">
 
-[[Take the ticket|taketicket]]
-
-:: taketicket
-
-
- <<print $name>>, you now have 1 ticket and can now access the tour. 
 
 [[Join the tour|tour]]
